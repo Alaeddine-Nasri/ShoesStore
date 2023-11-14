@@ -7,10 +7,11 @@ ShoesStore is a mobile application developed as part of a technical skills asses
 ## Mockups
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+<img src="./assets/mockup/home.png" alt="mockup" width="200"/>
+<img src="./assets/mockup/homeprofil.png" alt="mockup" width="200"/>
+<!-- ![Mockup 1](./assets/mockup/home.png) 
 
-![Mockup 1](./assets/mockup/home.png)
-
-![Mockup 2](./assets/mockup/homeprofil.png)
+![Mockup 2](./assets/mockup/homeprofil.png) -->
 
 </div>
 
