@@ -93,10 +93,8 @@ ShoesStore is a React Native application for browsing and purchasing shoes. Befo
 - Home Screen: View a curated selection of shoes, including promotional items.
 **Screenshot:**
 <div style="display: flex; justify-content: space-between; align-items: center;">
-
-![Mockup 1](./assets/mockup/home.png)
-
-![Mockup 2](./assets/mockup/des.png)
+<img src="./assets/mockup/home.png" alt="mockup" width="300"/>
+<img src="./assets/mockup/des.png" alt="mockup" width="300"/>
 
 </div>
 - Search Functionality: Easily search for specific products using the search bar.
@@ -104,12 +102,9 @@ ShoesStore is a React Native application for browsing and purchasing shoes. Befo
 - Product Details: Tap on a product to view detailed information, including images, description, and pricing.
 - Shopping Cart: Add products to your shopping cart for easy checkout.
   <div style="display: flex; justify-content: space-between; align-items: center;">
-
-![Mockup 1](./assets/mockup/panel.png)
-
-![Mockup 2](./assets/mockup/panelf.png)
-
-![Mockup 2](./assets/mockup/payment.png)
+<img src="./assets/mockup/panel.png" alt="mockup" width="300"/>
+<img src="./assets/mockup/panelf.png" alt="mockup" width="300"/>
+<img src="./assets/mockup/payment.png" alt="mockup" width="300"/>
 
 </div>
 - Profile page: is a user interface where users can view and manage their profile information, order history, and other relevant details.
