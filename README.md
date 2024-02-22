@@ -2,7 +2,7 @@
 
 ### Project Description
 
-ShoesStore is a mobile application developed as part of a technical skills assessment at [Company Name]. This project serves as a demonstration of skills in React Native, Node.js, and related technologies. It simulates an online shoe store with features like product browsing, promotions, and user interactions.
+ShoesStore is a mobile application developed as part of a technical skills assessment at the bradery. This project serves as a demonstration of skills in JS, React Native, Typescript, Node.js, and related technologies. It simulates an online shoe store with features like product browsing, promotions, and user interactions.
 
 ## Mockups
 
